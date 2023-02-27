@@ -1,0 +1,49 @@
+.title
+{
+    font-size: 40px;
+    font-weight: bold;
+
+}
+input[type="button"]
+{
+     width:80px;
+    padding:20px 40px;
+    background-color: rgb(41, 150, 8);
+    color: rgb(248, 248, 250);
+    font-size: large;
+    font-weight: bold;
+    border-radius:8px;
+}
+input[type="button1"]
+{
+     width:43px;
+    padding:20px 40px;
+    background-color: rgb(41, 150, 8);
+    color: rgb(248, 248, 250);
+    font-size: large;
+    font-weight: bold;
+    border-radius:8px;
+}
+input[type="button1"]:hover
+{
+    background-color: antiquewhite;
+    color: black;
+}
+input[type="button"]:hover
+{
+    background-color: antiquewhite;
+    color: black;
+}
+.btnTop
+{
+    color:rgb(246, 246, 245)
+}
+#display
+{
+    height: 40px;
+    background-color: rgb(241, 245, 245);
+    color: black;
+    width:338px;
+    font-size: 25px;
+    font-weight: bold;
+}
